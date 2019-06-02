@@ -1,0 +1,9 @@
+[package]
+name = "rocket-energy"
+version = "0.1.0"
+authors = ["loliveira"]
+
+[dependencies]
+rocket = "0.3"
+rocket_codegen = "0.3"
+rocket_contrib = "0.3"
